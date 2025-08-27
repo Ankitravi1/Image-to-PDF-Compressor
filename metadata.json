@@ -1,0 +1,5 @@
+{
+  "name": "Image to PDF Converter",
+  "description": "A web application to convert multiple images into a single, optimized PDF document. Users can select page size and image compression levels for the output file.",
+  "requestFramePermissions": []
+}
