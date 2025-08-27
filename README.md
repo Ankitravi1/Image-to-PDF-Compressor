@@ -1,6 +1,6 @@
 # Image to PDF Converter
 
-A lightweight, local-only web app to convert images into a single PDF. No external AI services are used.
+A lightweight, local-only web app to convert images into a single PDF. No external services are used.
 
 ## Why this app?
 
